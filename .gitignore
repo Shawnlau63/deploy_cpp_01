@@ -1,3 +1,11 @@
+/.git/
+/.idea/
+/.svn/
+/datas/
+/saves/
+/cmake-build-debug/
+/cmake-build-release/
+
 # Prerequisites
 *.d
 
